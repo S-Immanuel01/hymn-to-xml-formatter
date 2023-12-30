@@ -4,11 +4,11 @@ After downloading the repository, run the file_to_xml_formatter.cpp file by typi
 <br><strong><i>Note: the output would be printed in your console (this is a console application and has no Graphical User interface (GUI)).</i></strong>
 
 ### Follow these simple steps
-i. Open the text_file.txt
+1. Open the text_file.txt
 ![Screenshot from 2023-12-30 03-25-51](https://github.com/S-Immanuel01/hymn-to-xml-formatter/assets/142397823/4fe05911-5c40-4c21-a0e7-81cdb1b0a326)
 
-2. Edit the text in the text_file or copy and paste your hymn. If the hymn has a chorus, write chorus above it ensuring to leave a line space after every stanza or chorus
-![Screenshot from 2023-12-30 03-26-01](https://github.com/S-Immanuel01/hymn-to-xml-formatter/assets/142397823/6d5e636a-da9f-490a-882f-d60a751f2ef6)
+2. Edit the text in the text_file or copy and paste your hymn. If the hymn has a chorus, write "chorus" or "chorus:" above it ensuring to leave a line space after every stanza or chorus
+![Screenshot from 2023-12-30 03-26-01](https://github.com/S-Immanuel01/hymn-to-xml-formatter/assets/142397823/20506435-5474-46bd-9ab2-934df8ae618d)
 
 3. open the code in a code editor, run the command `g++ file_to_formatter.cpp && ./a.out`
 ![Screenshot from 2023-12-30 03-26-55](https://github.com/S-Immanuel01/hymn-to-xml-formatter/assets/142397823/a311200b-c242-45a8-875d-8573646771d2)
