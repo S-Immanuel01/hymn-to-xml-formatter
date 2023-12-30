@@ -1,6 +1,6 @@
 # HTML TEXT FILE TO XML FORMATTER
 ## How to use this code 
-After downloading the code from my repository, run the `file_to_xml_formatter.cpp` file by typing `g++ file_to_formatter.cpp && ./a.out` this would convert the demo text in `text_file.txt` to xml format
+Download the code from my repository and run the `file_to_xml_formatter.cpp` file by typing `g++ file_to_formatter.cpp && ./a.out` this would convert the demo text in `text_file.txt` to xml format
 <br><strong><i>Note: the output would be printed in your console (this is a console application and has no Graphical User interface (GUI)).</i></strong>
 
 ### Follow these simple steps
